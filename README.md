@@ -29,13 +29,7 @@ This project focuses on predicting the survival status of patients with cirrhosi
    ```sh
    pip install numpy pandas scikit-learn matplotlib seaborn
    ```
-
-## Usage
-Run the model training and evaluation script:
-```sh
-python train.py
-```
-
+   
 ## Dataset
 - **Source**: UCI Cirrhosis Patient Survival Dataset
 - **Size**: 418 instances, 20 variables
