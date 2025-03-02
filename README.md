@@ -27,7 +27,7 @@ This project focuses on predicting the survival status of patients with cirrhosi
    ```
 2. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install numpy pandas scikit-learn matplotlib seaborn
    ```
 
 ## Usage
